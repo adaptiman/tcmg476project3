@@ -13,317 +13,321 @@ regex = r"(.*) - - \[(.*)\] \"(.*?) (.*?\..*?) (HTTP\/\d\.\d)\" (\d*) (\d*)"
 #     1. How many total requests were made in the time period represented in the log?
 #       726,736
 #     2. How many requests were made on each day? per week? per month?
-#       example: 
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('01/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
 
 total = 0
 
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('02/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('03/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('04/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('05/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('06/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('07/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('08/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('09/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('10/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('11/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('12/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('13/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('14/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('15/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('16/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('17/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('18/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('19/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('20/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('21/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('22/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('23/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('24/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('25/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('26/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('27/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('28/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('29/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('30/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
-total = 0
-
-with open('Oct1995.txt') as f:
-        for line in f:
-                finded = line.find('31/Oct/1995')
-                if finded != -1 and finded != 0:
-                        total += 1
-
-print(total)
-
+for x in range(31):
+        if x < 9:
+                date = "/Oct/1994"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Oct1994.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Oct/1994"
+                date = str(x + 1) + date
+                print(date)
+                with open('Oct1994.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Nov/1994"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Nov1994.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Nov/1994"
+                date = str(x + 1) + date
+                print(date)
+                with open('Nov1994.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Dec/1994"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Dec1994.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Dec/1994"
+                date = str(x + 1) + date
+                print(date)
+                with open('Dec1994.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Jan/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Jan1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Jan/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Jan1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Feb/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Feb1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Feb/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Feb1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Mar/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Mar1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Mar/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Mar1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Apr/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Apr1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Apr/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Apr1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/May/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('May1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/May/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('May1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Jun/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Jun1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Jun/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Jun1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Jul/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Jul1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Jul/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Jul1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Aug/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Aug1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Aug/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Aug1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Sep/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Sep1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Sep/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Sep1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+
+for x in range(31):
+        if x < 9:
+                date = "/Oct/1995"
+                date = "0" + str(x + 1) + date
+                print(date)
+                with open('Oct1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+        else:
+                date = "/Oct/1995"
+                date = str(x + 1) + date
+                print(date)
+                with open('Oct1995.txt') as f:
+                        for line in f:
+                                finded = line.find(date)
+                                if finded != -1 and finded != 0:
+                                        total += 1
+                print(total)
+                total = 0
+                
 #       run for every date to get value
 # Oct/1994: 11168
         # 24: 705
@@ -748,7 +752,7 @@ print(total)
         # 08/10-14/10: 11066
 
 
-#     3. What percentage of the requests were not successful (any 4xx status code)?
+#     3. What percentage of the requests were not successful (any 4xx status codes)?
 #     4. What percentage of the requests were redirected elsewhere (any 3xx codes)?
 #     5. What was the most-requested file?
 #     6. What was the least-requested file?
