@@ -1,0 +1,2 @@
+100/150
+Program does not download file from network, nor split out the logs. It looks like you split the logs manually. Program does not execute in a clean Python3 environment because requests is not a standard P3 package. In this case, if you added requests to requirements.txt, it would've run. You can also use urllib as the package to download the file, which is a standard package.
